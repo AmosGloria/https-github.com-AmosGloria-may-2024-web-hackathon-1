@@ -1,0 +1,11 @@
+{
+    "name": "portfolio.html",
+    "version": "1.0.0",
+    "description": "Your app description",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      
+    }
+  }
